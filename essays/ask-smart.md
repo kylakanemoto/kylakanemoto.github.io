@@ -9,6 +9,8 @@ labels:
   - Smart Questions
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/questions.jpg">
+
 It is never dumb to ask a question, but the way in which it is asked determines whether it is perceived as smart or dumb. In software engineering, it is especially important to ask clear, detailed questions to receive helpful feedback. In other words, the amount of thought and effort put into the question affects how it will be answered. For example, consider a software engineer needing debugging assistance who simply pastes their entire code with the question, “Can you fix this?” This lacks context about what they understand or have tried, making it difficult for others to provide useful advice. In the essay, “How To Ask Questions The Smart Way”, Eric S. Raymond explains the ways to ask "smart" questions, and things to look out for before and when you ask. One of the best places to apply these principles is on Stack Overflow, a platform where programmers of all levels collaborate and share their expertise. To better understand “smart” and “not smart” questions, I have included two questions from Stack Overflow below.
 
 ## Stay smart
