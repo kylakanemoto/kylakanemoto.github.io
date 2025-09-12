@@ -12,6 +12,8 @@ labels:
   - Workout of the Day
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/javascript.jpg">
+
 My first encounter with JavaScript and Typescript was challenging, since the only language I knew then was Java. However, after working through the 160 modules, I was able to make connections to Java, which helped me become familiar with the structures and syntax of both languages. A feature in JavaScript that stood out to me was its use of first-class functions, which are functions that can be assigned to variables, used as arguments, or returned from neighboring functions. This flexibility contrasts with Java, since functions must be created as methods within classes, and require explicit type parameters to execute properly. Thus, making JavaScript a much cleaner and beginner-friendly language than Java. 
 
 ## Better than the Javas?
