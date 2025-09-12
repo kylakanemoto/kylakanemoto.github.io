@@ -13,7 +13,7 @@ summary: "I have participated in dog conformation since 2018."
 ---
 
 <p align="center">
-  <img width="200px" class="img-fluid" src="../img/show1.JPEG">
+  <img width="400px" class="img-fluid" src="../img/show1.JPEG">
 </p>
 
 Although I explored a many hobbies growing up, none truly resonated with me. From art classes to summer workshops, these experiences were fun and engaging, but they never felt like activities that I could commit to in the long run. My introduction to American Kennel Club (AKC) dog conformation–or AKC dog shows, for short, where dogs are judged on how closely they meet their breed standards–came through my mom, who had been showing Pembroke Welsh Corgis since highschool. Initially, my fear of dogs kept me from developing an interest. However, after getting my Brittany, whose calm and gentle demeanor helped me overcome my fears, I decided to give dog conformation a go.
