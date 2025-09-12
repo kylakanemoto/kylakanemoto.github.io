@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_5002 2.jpg
+image: img/dragon.jpg
 title: "Paper Quilling"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ summary: "I created a paper quilling of Shenron from Dragon Ball Z."
 ---
 
 <p align="center">
-  <img width="400px" class="img-fluid" src="../img/IMG_5002 2.jpg">
+  <img width="400px" class="img-fluid" src="../img/dragon.jpg">
 </p>
 
 For an art assignment, I created a paper quilling of Shenron from Dragon Ball Z. The goal was to fill an 8”x 10” sheet of paper with strips of colored paper, using techniques such as coiling, rolling, and shaping to form the design.  With a fast-approaching deadline, I knew I needed to carefully plan and stay consistent with my work. My vision was ambitious as I wanted to include a detailed sky background in addition to Shenron himself, so the piece felt more complete and balanced. 
