@@ -11,6 +11,8 @@ labels:
   - Goals
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/ai.jpg">
+
 As artificial intelligence becomes increasingly sophisticated in the technical world, I have grown concerned about its impact on the future of software engineering. Many entry-level jobs are already being automated, as companies are now seeking candidates with senior-level experience. Articles about unemployment and layoffs of software engineers were discouraging and thus made me question the value of a computer science degree. However, I am remaining hopeful that software engineers will continue to be needed for skills that artificial intelligence still has not perfected, such as creativity, problem-solving, and ethical reasoning.
   
 ## Beyond the code
