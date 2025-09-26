@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/questions.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint_errors.png">
 
 
 Since the beginning of my computer science journey, I have never been great at sticking to coding standards. I would begin my programs with the correct indentation and spacing, but as I got into coding, I would forget about creating a separate line from functions or adding spaces before brackets. Thus, my programs ended up semi-formatted, and sometimes it was difficult to differentiate my lines of code. As a result, I had to go back and clean up my messy code, which was often frustrating and time-consuming. 
