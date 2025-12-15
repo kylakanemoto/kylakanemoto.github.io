@@ -1,13 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "UI Blessings"
+title: "Down the Rabbit Hole: Effort Estimation vs. Reality"
 # All dates must be YYYY-MM-DD format!
-date: 2025-10-09
+date: 2025-12-14
 published: true
 labels:
-  - UI Frameworks
-  - Bootstrap
+  - Effort Estimation
+  - Workflow Optimization
+  - Time Management
+  - Software Engineering
 ---
 
 Effort estimation in software development often feels like stepping into a rabbit hole—what seems straightforward at first quickly becomes more complex as you move forward.
@@ -26,7 +28,13 @@ Tracking my actual effort proved to be highly useful and directly informed my fu
 
 As this process continued, effort estimation and tracking became part of my regular workflow. For each issue I worked on, I would leave a comment noting my estimated effort and often based that estimate on a similar issue I had completed previously. After finishing the task, I would then record my actual coding and non-coding effort using my tracking tools. Over time, this routine became second nature, and consistently comparing past issues to new ones helped me estimate more confidently and work more intentionally.
 
+In addition to my individual tracking, my group and I recorded our estimated and actual effort in a shared table to maintain transparency and consistency across the team. This allowed us to compare expectations versus reality at both the individual and group level. The table documenting our estimates and actual effort can be found [here](https://github.com/manoaroomiematch/manoaroomiematch.github.io/blob/8d8aafec3d2d31411fe037b0e788abc85326d3ad/Project%20Effort%20Report.xlsx).
+
 I noticed a consistent pattern where I would slightly exceed my estimates due to unexpected bugs or errors. However, as I continued tracking my actual effort, my estimates gradually became more accurate and I developed a structured approach to tasks. For example, I would allocate around 15 minutes to build basic frontend components without functionality, then commit an additional 20–30 minutes to implementing surface-level functions. If no major issues arose, I could move forward efficiently. When errors did occur, I adjusted my expectations and compensated for them in future estimates.
+
+<p align="center">
+  <img width="500px" class="rounded" src="../img/effort.png">
+</p>
 
 ## Following the Trail
 
