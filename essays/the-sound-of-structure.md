@@ -21,7 +21,8 @@ I’ve played piano for over a decade, and something I’ve learned throughout t
 Our project uses React and React Bootstrap on the client side, Next.js for server logic, and PostgreSQL for the database. I see these layers like different parts of an ensemble—each one has a role, and if they weren’t coordinated, everything would clash. A design pattern that our application heavily relies on is the Client–Server pattern, where the browser asks for something and the backend responds. It’s simple, but it gives the whole system a steady rhythm. It reminds me of how a pianist’s left hand anchors the right-hand melody. Each side has its job, and things work due to that balance.
 
 Another pattern I’ve found surprisingly helpful is the Module Pattern, especially through JavaScript’s static imports. Breaking the project into components and helpers keeps the code from turning into a giant, unreadable file. It’s like practicing scales or arpeggios on their own—you break the music into manageable pieces so you actually understand what’s happening. Using modules has made project feel less overwhelming, less likely for bugs, and easier for the whole team to contribute without stepping on each other’s work. In our application, each API route lives in its own file and handles everything for that endpoint. For example, the `/api/admin/users` route exports two functions: GET and POST.
-```
+
+```typescript
 // api/admin/users/route.ts
 import { NextResponse } from 'next/server';
 import { getServerSession } from 'next-auth';
