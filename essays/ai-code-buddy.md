@@ -27,15 +27,11 @@ I found ChatGPT to be useful in the basic TypeScript experience WODs as I was st
 
 ### In-class Practice WODs
 
-For the in-class practice WODs, I found that using ChatGPT and Co-Pilot was helpful in getting me to a solution more efficiently because being under a time constraint while still being new to the concepts and language was stressful in itself. However, I tended to rely on my own knowledge along with the AI because the in-class practice WODs were done in groups and were not necessarily assessments.
-
-I don’t have the exact prompts saved, but the basic structure I used was something like: “Can you build a program based on <WOD instructions>?” In most cases, the program would be almost finished with some minor tweaks needed. However, there were some instances, especially in the more complex WODs involving Bootstrap and React, where I needed to fix almost everything because ChatGPT or Co-Pilot had misinterpreted my prompt. Even so, using AI helped me see what a possible solution could look like, which reduced my anxiety during the timed environment.
+For the in-class practice WODs, I found that using ChatGPT and Co-Pilot was helpful in getting me to a solution more efficiently because being under a time constraint while still being new to the concepts and language was stressful in itself. However, I tended to rely on my own knowledge along with the AI because the in-class practice WODs were done in groups and were not necessarily assessments. I don’t have the exact prompts saved, but the basic structure I used was something like: “Can you build a program based on <WOD instructions>?” In most cases, the program would be almost finished with some minor tweaks needed. However, there were some instances, especially in the more complex WODs involving Bootstrap and React, where I needed to fix almost everything because ChatGPT or Co-Pilot had misinterpreted my prompt. Even so, using AI helped me see what a possible solution could look like, which reduced my anxiety during the timed environment.
 
 ### In-class WODs
 
-As for the in-class WODs, I relied on ChatGPT and Co-Pilot a bit more compared to the practice ones because they were timed and counted as assessments. Again, I don’t have the exact prompts, but I generally used something like: “Can you build a program based on <insert the WOD instructions>?” In most cases, the program would be almost finished with some minor tweaks needed.
-
-However, there were also instances in more complex WODs involving Bootstrap and React where I needed to fix almost everything because the AI misunderstood the prompt or made assumptions that didn’t match the assignment constraints. Overall, I found AI very useful in these stressful situations, and it also helped me learn how to manage my time and stress better since it showed me what parts of the task to prioritize first.
+As for the in-class WODs, I relied on ChatGPT and Co-Pilot a bit more compared to the practice ones because they were timed and counted as assessments. Again, I don’t have the exact prompts, but I generally used something like: “Can you build a program based on <insert the WOD instructions>?”, with some added information if needed. Like the in-class practice WODs, the AI provided a strong basic structure of the program. However, there were again, instances in more complex WODs involving Bootstrap and React where I needed to fix almost everything because the AI misunderstood the prompt or made assumptions that didn’t match the assignment constraints. Overall, I found AI very useful in these stressful situations, and it also helped me learn how to manage my time and stress better since it showed me what parts of the task to prioritize first.
 
 ### Essays
 
@@ -64,9 +60,7 @@ I learned that providing more information about my intentions and the purpose of
 
 ### Learning a Concept / Tutorial
 
-For learning concepts or tutorials, I didn’t use AI that much because the screencasts and readings were usually sufficient. However, some screencasts were outdated, such as those that still referred to Meteor. In those cases, I turned to AI for help. For example, I prompted ChatGPT to explain UI Design Basics in terms of Next.js instead.
-
-I also used ChatGPT to explain difficult concepts like application design in Next.js and Playwright testing. If AI’s explanation wasn’t sufficient, I supplemented it with YouTube videos to solidify my understanding. Overall, ChatGPT was very useful in making new concepts feel more manageable.
+For learning concepts or tutorials, I didn’t use AI that much because the screencasts and readings were usually sufficient. However, some screencasts were outdated, such as those that still referred to Meteor. In those cases, I turned to AI for help. For example, I prompted ChatGPT to explain UI Design Basics in terms of Next.js instead. I also used ChatGPT to explain difficult concepts like application design in Next.js and Playwright testing. If AI’s explanation wasn’t sufficient, I supplemented it with YouTube videos to solidify my understanding. Overall, ChatGPT was very useful in making new concepts feel more manageable.
 
 ### Answering a Question in Class or Discord
 
