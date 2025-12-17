@@ -68,27 +68,27 @@ During in-class group discussions, we often searched questions using AI. However
 
 ### Asking or Answering a Smart Question
 
-I found that asking AI a smart question was quicker than Discord since it provided instant responses. However, I learned that including background information was necessary for useful answers. This was especially helpful during the deployment experience, where instructions were outdated and Discord responses were delayed. I used ChatGPT to guide me through deploying on Vercel, double-checking its suggestions as I went. While it was helpful, I still had to be careful and attentive to avoid errors.
+I found that asking AI a smart question was quicker than Discord since it provided instant responses. However, again, including background information was necessary for useful answers. This was especially helpful during the deployment experience, where instructions were outdated and Discord responses were delayed. I used ChatGPT to guide me through deploying on Vercel, double-checking its suggestions as I went. While it was helpful, I still had to be careful and attentive to avoid errors.
 
 ### Coding Examples
 
-For coding examples, I used ChatGPT frequently at the beginning when learning TypeScript and JavaScript. I remember prompting something like: “Can you provide coding snippets of TypeScript and JavaScript and explain the differences between them?” Although the explanation was still confusing at first, seeing side-by-side code examples helped me visually understand the differences.
+For coding examples, I used ChatGPT frequently at the beginning when learning TypeScript and JavaScript. I remember prompting something like: “Can you provide coding snippets of TypeScript and JavaScript and explain the differences between them?” Although the explanation was still confusing at first, seeing side-by-side code examples helped me visually understand the differences. Therefore, I beleive that using AI to provide examples of code is a great way to get guidance when learning new language and other new concepts.
 
 ### Explaining Code
 
-I used AI, specifically Co-Pilot, frequently during my final project to explain code. I would ask it to explain functions and helpers that my teammates wrote so I could understand the application flow. This was essential in helping me quickly grasp unfamiliar parts of the codebase and allowed me to focus more on building features.
+I relied heavily on AI, specifically Co-pilot, throughout my final project to help me understand the code. For instance, when implementing functionality on the admin pages, I frequently prompted Co-pilot to explain what each function and helper did. I also used it to interpret the code my teammates had written, which helped me understand the overall flow of the application and anticipate how my changes might affect it. Using AI to clarify the code in my final project was an essential part of my development process, enabling me to quickly grasp the fundamentals and spend more time building or refining other aspects of the program.
 
 ### Writing Code
 
-For in-class WODs and my final project, I used ChatGPT and Co-Pilot to write much of the code. Since many required concepts were not deeply taught in class, Co-Pilot helped bridge that gap. However, I still manually edited code, especially for CSS and HTML, and reviewed AI suggestions carefully to ensure correctness.
+For the in-class WODs and my final project, I used ChatGPT and Co-pilot to write most of the code. Specifically for my final project, I relied on Co-pilot to make changes and suggest code since many of the concepts and technical skills required weren’t fully covered in class. However, I still made changes manually when I caught errors myself or needed to handle CSS styling and other HTML coding, which we had learned in class. Most importantly, I carefully monitored the changes Co-pilot suggested before implementing them to ensure they aligned with the flow of the application. Overall, AI handled much of the code writing for both the WODs and my final project, but I was actively involved in reviewing and correcting errors. Additionally, I feel I learned a lot by observing how Co-pilot generated the code—its thought process gave me insight that I believe will help me write more of this type of code independently in the future.
 
 ### Documenting Code
 
-Co-Pilot did exceptionally well at documenting code by explaining what each function did and generating markdown files. I would sometimes prompt: “Can you provide comments on the functionality of <method name>?” I found minimal errors in its documentation and found it very helpful.
+In terms of documenting code, Co-pilot did exceptionally well at automatically describing what each function did. For my final project, it even generated markdown files on its own based on the code it had produced. For example, it created an md for the implementation of the lifestyle categories as well as for the optimization of my final project. For comments, I sometimes prompted it with, “Can you provide comments on the functionality of the <method name> and other important features?” I found very few errors in the documentation Co-pilot generated and found it extremely useful whenever I needed to document a section of code.
 
 ### Quality Assurance
 
-I used Co-Pilot extensively for quality assurance, prompting things like: “Are there repeated API calls or excess fetching?” or “Fix the ESLint errors.” It was efficient and accurate, making it an integral part of maintaining code quality.
+I used AI, specifically Co-pilot, extensively for quality assurance in my final project, and I believe it often did a better job than I could manually. For example, I would prompt it with questions like, “Are there repeated API calls or excess fetching for any of the admin components?” or “Are these new changes optimized, and do they interfere with other auth, routes, APIs, or pages?” to ensure that my application was running effectively and efficiently. I also used it to fix ESLint errors, as it was quicker and more accurate in detecting and resolving them. I would usually prompt, “Fix the ESLint errors,” and it would identify and correct them automatically, or I would highlight the line of code for it to fix. Overall, AI was an integral and highly helpful tool in ensuring that my code and application met the expected level of quality.
 
 ### Other Uses
 
