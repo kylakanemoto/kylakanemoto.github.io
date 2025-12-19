@@ -13,7 +13,7 @@ summary: "A web application developed in ICS 314 to help UH Mānoa students find
 ---
 
 <div align="center">
-  <img src="../img/manoa-rm.png" width="800" alt="Banner Image">
+  <img src="../img/manoa-rm.png" width="500" alt="Banner Image">
 </div>
 
 ## Overview
