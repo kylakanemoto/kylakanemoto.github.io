@@ -10,6 +10,14 @@
       { "network": "github", "username": "kylakanemoto", "url": "http://github.com/kylakanemoto" },
       { "network": "linkedin", "username": "kylakanemoto", "url": "http://linkedin.com/in/kylakanemoto" }
     ]
+    ,
+    "location": {
+      "address": "2500 Campus Road",
+      "city": "Honolulu",
+      "region": "HI",
+      "postalCode": "96822",
+      "countryCode": "US"
+    }
   },
   "interests": [
     { "name": "Artificial Intelligence" },
