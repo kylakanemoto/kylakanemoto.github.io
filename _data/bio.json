@@ -23,7 +23,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub, VS Code" ]
     }
   ],
   "education": [
@@ -33,8 +33,6 @@
       "studyType": "B.S.",
       "startDate": "2024-08",
       "endDate": "Present",
-      "courses": [
-      ]
     }
   ],
   "work": [
