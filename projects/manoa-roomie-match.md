@@ -13,7 +13,7 @@ summary: "A web application developed in ICS 314 to help UH Mānoa students find
 ---
 
 <div align="center">
-  <img src="manoa-rm.png" width="800" alt="Banner Image">
+  <img src="../img/manoa-rm.png" width="800" alt="Banner Image">
 </div>
 
 ## Overview
@@ -24,17 +24,19 @@ Mānoa RoomieMatch is a web application designed to help University of Hawaiʻi 
 
 For the ICS 314 final project, I worked on several key parts of the application. My main responsibility was developing the “Admin Home Page”, where I handled both frontend and backend functionality and provided administrators with tools to manage the platform and maintain content quality. I also implemented the “Campus Life” page, which gives students useful information about living on or near campus. On the “Browse Matches” page, I developed the “Saved Matches”, “Accepted Matches”, and “Passed Matches” pages, allowing users to track and manage their interactions with potential roommates. I also worked on the “Messaging” page, making the buttons and dropdowns functional. Additionally, I ensured the application was mobile-friendly by adjusting CSS styling and layout for smaller screens. I implemented a notification system for users who submit reports, providing confirmation that their report was reviewed.
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="admin_m3.png" width="300">
-    </td>
-    <td>
-      <img src="campuslife_m3.png" width="300"><br>
-      <img src="saved_m3.png" width="300">
-    </td>
-  </tr>
-</table>
+<p>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="../img/admin_m3.png" width="400">
+      </td>
+      <td>
+        <img src="../img/campuslife_m3.png" width="400"><br><br>
+        <img src="../img/saved_m3.png" width="400">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Key Takeaways
 
