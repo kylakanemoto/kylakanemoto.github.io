@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mrm-logo.png
+image: img/mrm-logo.jpg
 title: "Mānoa Roomie Match"
 date: 2025
 published: true
