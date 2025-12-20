@@ -4,7 +4,7 @@ type: essay
 title: "Evolving Beyond AI"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-04
-published: true
+published: false
 labels:
   - Software Engineering
   - Artificial Intelligence

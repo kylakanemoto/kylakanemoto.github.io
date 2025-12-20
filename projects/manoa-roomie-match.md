@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/mrm-logo.jpg
-title: "Mānoa Roomie Match"
+title: "Mānoa RoomieMatch"
 date: 2025
 published: true
 labels:
@@ -13,7 +13,7 @@ summary: "A web application developed in ICS 314 to help UH Mānoa students find
 ---
 
 <div align="center">
-  <img src="../img/manoa-rm.png" width="500" alt="Banner Image">
+  <img src="../img/manoa-rm.png" width="600" alt="Banner Image">
 </div>
 
 ## Overview
